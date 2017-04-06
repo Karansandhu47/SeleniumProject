@@ -101,6 +101,9 @@ public class Passenger {
 		this.passportPlaceOfIssue = passportPlaceOfIssue;
 	}
 
+	public void setTEst(String passportPlaceOfIssue) {
+		this.passportPlaceOfIssue = passportPlaceOfIssue;
+	}
 	
 	
 	
